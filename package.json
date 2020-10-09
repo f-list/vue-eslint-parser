@@ -1,5 +1,5 @@
 {
-  "name": "vue-eslint-parser",
+  "name": "@f-list/vue-eslint-parser",
   "version": "7.6.0",
   "description": "The ESLint custom parser for `.vue` files.",
   "engines": {
